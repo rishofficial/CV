@@ -44,4 +44,3 @@ Make sure to have a LaTeX distribution (such as TeX Live, MiKTeX, or MacTeX) ins
 ```bash
 pdflatex cv.tex
 ```
-# CV
